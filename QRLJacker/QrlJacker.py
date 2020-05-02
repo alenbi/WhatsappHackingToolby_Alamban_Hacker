@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 # -*- coding: utf-8 -*-
-#Written by: Karim shoair - D4Vinci ( QrlJacker-Framework )
+#Written by: Alamban Hacker - A4Alamban ( QrlJacker-Framework )
 from core import Cli,utils,Settings,db
 from core.color import *
 from sys import version_info as py_ver
